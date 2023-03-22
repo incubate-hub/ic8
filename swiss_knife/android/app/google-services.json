@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364115023121",
+    "project_id": "swiss-knife-1d3a3",
+    "storage_bucket": "swiss-knife-1d3a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364115023121:android:0d9e81061d9961bf4c68b0",
+        "android_client_info": {
+          "package_name": "com.example.swiss_knife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364115023121-l29mnfvtokp45u0ioo8ifbban50jpldc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiyD4z6cT6jAWmBaqVeQ49oeu76Xhtprg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364115023121-l29mnfvtokp45u0ioo8ifbban50jpldc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

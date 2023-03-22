@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>364115023121-cgds34ss8h6uo7d5as732lp0962jbdb2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.364115023121-cgds34ss8h6uo7d5as732lp0962jbdb2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAESIECDnt7T3RXTv2-snfl_N0mkS5tEGc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>364115023121</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.swissKnife</string>
+	<key>PROJECT_ID</key>
+	<string>swiss-knife-1d3a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiss-knife-1d3a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:364115023121:ios:8f3c7994e8f2062a4c68b0</string>
+</dict>
+</plist>
